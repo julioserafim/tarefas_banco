@@ -1,0 +1,4 @@
+io/flutter/plugins/GeneratedPluginRegistrant.java
+ io.flutter.plugins.GeneratedPluginRegistrant
+com/br/flutter/tarefas_banco/BuildConfig.java
+ com.br.flutter.tarefas_banco.BuildConfig
